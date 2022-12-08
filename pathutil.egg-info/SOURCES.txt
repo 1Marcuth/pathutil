@@ -1,0 +1,7 @@
+setup.py
+pathutil/__init__.py
+pathutil.egg-info/PKG-INFO
+pathutil.egg-info/SOURCES.txt
+pathutil.egg-info/dependency_links.txt
+pathutil.egg-info/requires.txt
+pathutil.egg-info/top_level.txt
